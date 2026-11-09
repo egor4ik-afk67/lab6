@@ -1,0 +1,13 @@
+--- Програма сортування запущена ---
+Створено папку: out
+Створено папку: out/Documents
+Переміщено: lab6_11/README.md -> out/Documents/README.md
+Переміщено: lab6_11/docs/manual.txt -> out/Documents/manual.txt
+Створено папку: out/PDFs
+Переміщено: lab6_11/docs/presentation.pdf -> out/PDFs/presentation.pdf
+Створено папку: out/Images
+Переміщено: lab6_11/img/cat.jpg -> out/Images/cat.jpg
+Переміщено: lab6_11/img/dog.png -> out/Images/dog.png
+Створено папку: out/Sources
+Переміщено: lab6_11/src/main.c -> out/Sources/main.c
+Сортування завершено! Див. 'sort_report.log'.
